@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ocr_scan_img</string>
+    <string name="chose_image">Chose Image</string>
+    <string name="crop_btn">Crop</string>
+</resources>
